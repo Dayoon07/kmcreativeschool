@@ -47,18 +47,9 @@
 
 <h3 style="text-align: center">IDE</h3>
 <div style="display: flex; width: 100%;">
-  <div>
-    <h3>Spring Tool Suite</h3>
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRtQyXi1necbFlJOetK3_3MHaLeHDGZ-C3pw&s" width="100" height="100">
-  </div>
-  <div>
-    <h3>DBeaver</h3>
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-3rWIKPntHjAWxdfD_TNkMVjE9PGasQcpbA&s" width="100" height="100">
-  </div>
-  <div>
-    <h3>Visual Studio Code</h3>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="100" height="100">
-  </div>
 </div>
 
 <h3 style="text-align: center">서버</h3>

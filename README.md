@@ -1,65 +1,67 @@
-본인 github readme.md파일 수정 예시
 <div align="center">
-<h2>[2024] Team SAEROK <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Four%20Leaf%20Clover.png" alt="Four Leaf Clover" width="30" height="30" /></h2>
+<h2>팀명 : 폴리스 다크 아미 </h2>
 </div>
 
-##  프로젝트 개요 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" />
+## 프로젝트 소개
 
-화장품 회사의 업무 프로세스를 관리하고 지점과 협업을 위한 그룹웨어
+학교폭력을 간단하게 신고할 수 있도록 만든 웹 애플리케이션
+<a href="http://teacherdev09.kro.kr:9999/creativeschool">주소</a>
+
+
 
 
   
-##  팀원 소개 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Woman Technologist Light Skin Tone" width="35" height="35" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="35" height="35" />
+##  팀원 소개
 
-|메인화면/근태/<br>일정관리|로그인/마이페이지/<br>사원관리|쪽지/게시판|지점관리/점주전용|전자결재|
-|:-:|:-:|:-:|:-:|:-:|
-| <img src="https://github.com/jjiyeong/-Saerok_final/assets/148295633/a7ecb8ab-3c90-43be-83ec-ec07decaef8a" width="180" height="180"/> | <img src="https://github.com/jjiyeong/-Saerok_final/assets/148295633/bc69cf01-6cd1-4649-8e43-7a0fd9fe7c7d" width="180" height="180"/> | <img src="https://github.com/jjiyeong/-Saerok_final/assets/148295633/9854b646-e810-4b91-a30d-3d5c48ba613c" width="180" height="180"/> | <img src="https://github.com/jjiyeong/-Saerok_final/assets/148295633/57f1c575-7ca3-4413-812a-9d0395ac68ce" width="180" height="180"/> | <img src="https://github.com/jjiyeong/-Saerok_final/assets/148295633/5abe4eed-4059-4785-b9ca-634a615b0c4d" width="180" height="180"/> 
-| [오지영(팀장)](https://github.com/jjiyeong)|[이지혜(팀원)](https://github.com/devjh502)|[김도영(팀원)](https://github.com/devDYoung)|[유채화(팀원)](https://github.com/coghkLove)|[홍정재(팀원)](https://github.com/23supermanJJ)|
+|--기능 개발--|--기능 개발--|--UI / UX--|--화면구현--|--기능 개발--|
+|----|----|----|----|----|
+|--강다윤--|--권민서--|--이재현--|--우예진--|--박은서--|
 
-##  프로젝트 일정 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="30" height="30" />
-<br>
+##  프로젝트 일정
 
-* 2023/11/24 ~ 2024/01/25
+## 2024년 4월 ~ 2024년 10월
 
-<picture>
-<img width="1300" alt=" 프로젝트일정" src="https://github.com/jjiyeong/-Saerok_final/assets/148295633/2abe83ec-b3d6-46df-a11e-ebf185691668">
-</picture>
+<div style="display: flex">
+  <div style="width: 25%; min-height: 150px;">
+    <h3>4월~7월</h3>
+    <h4>16주</h4><br>
+    <p>
+      프로젝트 진행을 위한 기초학습
+    </p>
+  </div>
+  <div style="width: 25%; min-height: 150px;">
+    <h3>7월 중반~8월 초</h3>
+    <h4>3주</h4><br>
+    <p>
+      아이디어 회의 및 기획
+    </p>
+  </div>
+  <div style="width: 25%; min-height: 150px;">
+    <h3>8월 초~9월 중반</h3>
+    <h4>5주</h4><br>
+    <p>
+      개발 진행
+    </p>
+  </div>
+  <div style="width: 25%; min-height: 150px;">
+    <h3>9월 중반~10월 중반</h3>
+    <h4>4주</h4><br>
+    <p>
+      검토 기간
+    </p>
+  </div>
+</div>
 
-##  기술 스택 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" />
+##  기술
 
 <div align="center">
 
-### Front-End
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)<br>
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Back-End
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-
-### Database
-
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-### Server
-
-![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=black">
-
-### Tools
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-<!--![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white) -->
+<h3 style="text-align: center">IDE</h3>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fspring.io%2Ftools%2F&psig=AOvVaw0oEgGemehazJYJmRAouL79&ust=1734864421667000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDr997XuIoDFQAAAAAdAAAAABAE" width="100" height="100">
+<h3 style="text-align: center">서버</h3>
+<h3 style="text-align: center">사용기술</h3>
+<h3 style="text-align: center">빌드도구E</h3>
+<h3 style="text-align: center">설계 및 협업 도구</h3>
 
 </div>
 

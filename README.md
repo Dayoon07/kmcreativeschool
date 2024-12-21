@@ -47,18 +47,33 @@
   <h3 style="text-align: center">IDE</h3>
   <div style="margin: 0 auto;">
     <div style="display: flex; width: 100%; margin: 0 auto;">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRtQyXi1necbFlJOetK3_3MHaLeHDGZ-C3pw&s" width="100" height="100">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-3rWIKPntHjAWxdfD_TNkMVjE9PGasQcpbA&s" width="100" height="100">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="100" height="100">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRtQyXi1necbFlJOetK3_3MHaLeHDGZ-C3pw&s" width="100" height="100" style="margin: 0px 15px;">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-3rWIKPntHjAWxdfD_TNkMVjE9PGasQcpbA&s" width="100" height="100" style="margin: 0px 15px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="100" height="100" style="margin: 0px 15px;">
     </div>
   </div>
   
   <h3 style="text-align: center">서버</h3>
-  <div style="display: flex; width: 100%; margin: 0 auto;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNWlT086JCifhpI148RuJIvNGjru2Ifk9b8A&s" width="100" height="100">
+  <div style="margin: 0 auto;">
+    <div style="display: flex; width: 100%; margin: 0 auto;">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNWlT086JCifhpI148RuJIvNGjru2Ifk9b8A&s" width="100" height="100">
+    </div>
   </div>
   
-  <h3 style="text-align: center">사용기술</h3>
+  <h3 style="text-align: center">언어</h3>
+  <div style="margin: 0 auto;">
+    <div style="display: flex; width: 100%; margin: 0 auto;">
+      <img src="https://static-00.iconduck.com/assets.00/java-original-icon-756x1024-j3tx11wk.png" width="100" height="100">
+      <img src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png" width="100" height="100">
+      <img src="https://blog.kakaocdn.net/dn/b5sGlw/btrSI8ZXQDq/NZqsZppkXksKj8BjJEHdhK/img.png" width="100" height="100">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2TduUZUxVTh6JazGfxCAAoeEQgn4CUTuhSw&s" width="100" height="100">
+      <img src="https://blog.kakaocdn.net/dn/luuVX/btrYIxyoFgh/kj5ErMPyurA6hmKdJqH1Hk/img.png" width="100" height="100">
+      <img src="https://velog.velcdn.com/images/hahbr88/post/93395cf8-4344-4909-ac2f-a6af21cd6108/image.jpg" width="200" height="100">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="100" height="100">
+      <img src="https://blog.kakaocdn.net/dn/bkJzw6/btrRi1aoXRC/PkBOHUKckXsYOsV8jEawqK/img.webp" width="100" height="100">
+    </div>
+  </div>
+  
   <h3 style="text-align: center">빌드도구</h3>
   <h3 style="text-align: center">설계 및 협업 도구</h3>
 </div>

@@ -1,6 +1,6 @@
 <div align="center">
 <h2>팀명 : 폴리스 다크 아미 </h2>
-</div>
+</div><br><br><br>
 
 ## 프로젝트 소개
 
@@ -91,7 +91,8 @@
   </div>
 </div>
 
-##  ERD <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crayon.png" alt="Crayon" width="30" height="30" />
+##  ERD
+<img src="https://dayoon07.github.io/static-page-test/img/creativeProjectERD.png" width="100" height="100">
 
 <picture>
 <img src="https://github.com/jjiyeong/-Saerok_final/assets/148295633/d796eb63-eac7-4761-abec-1c466401243a"/> 

@@ -60,36 +60,6 @@
     </div>
   </div>
   
-  <h3 style="text-align: center">사용 기술   <td>박은서</td>
-  </tr>
-</table>
-
-
-##  프로젝트 일정 <br> 2024년 4월 ~ 2024년 10월
-
-<div style="width: 100%; margin: 0 auto;">
-  <img src="https://dayoon07.github.io/static-page-test/img/project.png">
-</div>
-
-##  기술
-
-<div align="center">
-  <h3 style="text-align: center">IDE</h3>
-  <div style="margin: 0 auto;">
-    <div style="display: flex; width: 100%; margin: 0 auto;">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRtQyXi1necbFlJOetK3_3MHaLeHDGZ-C3pw&s" width="100" height="100">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-3rWIKPntHjAWxdfD_TNkMVjE9PGasQcpbA&s" width="100" height="100">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="100" height="100">
-    </div>
-  </div>
-  
-  <h3 style="text-align: center">서버</h3>
-  <div style="margin: 0 auto;">
-    <div style="display: flex; width: 100%; margin: 0 auto;">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNWlT086JCifhpI148RuJIvNGjru2Ifk9b8A&s" width="100" height="100">
-    </div>
-  </div>
-  
   <h3 style="text-align: center">사용 기술</h3>
   <div style="margin: 0 auto;">
     <div style="display: flex; width: 100%; margin: 0 auto;">

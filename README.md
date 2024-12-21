@@ -84,7 +84,7 @@
   <h3 style="text-align: center">설계 및 협업 도구</h3>
   <div style="margin: 0 auto;">
     <div style="display: flex; width: 100%; margin: 0 auto;">
-      <img src="https://blog.kakaocdn.net/dn/unW26/btrPSZYKyc6/BCKH21EKO8ms93kUHFK7I0/img.png" width="250" height="150">
+      <img src="https://blog.kakaocdn.net/dn/unW26/btrPSZYKyc6/BCKH21EKO8ms93kUHFK7I0/img.png" width="180" height="150">
       <img src="https://www.svgrepo.com/show/303548/git-icon-logo.svg" width="150" height="150">
       <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="150" height="150">
     </div>

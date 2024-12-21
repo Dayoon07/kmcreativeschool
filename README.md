@@ -77,6 +77,21 @@
   <h3 style="text-align: center">빌드도구</h3>
   <div style="margin: 0 auto;">
     <div style="display: flex; width: 100%; margin: 0 auto;">
+      <img src="https://cdn.creazilla.com/icons/3254075/maven-icon-lg.png" width="300" height="100">
+    </div>
+  </div>
+  
+  <h3 style="text-align: center">설계 및 협업 도구</h3>
+  <div style="margin: 0 auto;">
+    <div style="display: flex; width: 100%; margin: 0 auto;">
+      <img src="https://blog.kakaocdn.net/dn/unW26/btrPSZYKyc6/BCKH21EKO8ms93kUHFK7I0/img.png" width="180" height="150">
+      <img src="https://www.svgrepo.com/show/303548/git-icon-logo.svg" width="150" height="150">
+      <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="150" height="150">
+    </div>
+  </div>
+</div>
+##  ERD
+<img src="https://dayoon07.github.io/static-page-test/img/creativeProjectERD.png" width="800" height="700">
       <img src="https://cdn.creazilla.com/icons/32540록(공공 API)</h2>
 </details>
 <details open>

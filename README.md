@@ -92,11 +92,7 @@
 </div>
 
 ##  ERD
-<img src="https://dayoon07.github.io/static-page-test/img/creativeProjectERD.png" width="100" height="100">
-
-<picture>
-<img src="https://github.com/jjiyeong/-Saerok_final/assets/148295633/d796eb63-eac7-4761-abec-1c466401243a"/> 
-</picture>
+<img src="https://dayoon07.github.io/static-page-test/img/creativeProjectERD.png" width="800" height="700">
 
 ##  프로젝트 구성 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" alt="Bookmark Tabs" width="30" height="30" />
 

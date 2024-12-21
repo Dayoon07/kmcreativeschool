@@ -57,7 +57,7 @@
 <div align="center">
 
 <h3 style="text-align: center">IDE</h3>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fspring.io%2Ftools%2F&psig=AOvVaw0oEgGemehazJYJmRAouL79&ust=1734864421667000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDr997XuIoDFQAAAAAdAAAAABAE" width="100" height="100">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRtQyXi1necbFlJOetK3_3MHaLeHDGZ-C3pw&s" width="100" height="100">
 <h3 style="text-align: center">서버</h3>
 <h3 style="text-align: center">사용기술</h3>
 <h3 style="text-align: center">빌드도구E</h3>

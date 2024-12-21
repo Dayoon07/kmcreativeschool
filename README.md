@@ -25,7 +25,7 @@
     <td><img src="https://private-user-images.githubusercontent.com/148295633/305689714-bc69cf01-6cd1-4649-8e43-7a0fd9fe7c7d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQ3Nzk4MzQsIm5iZiI6MTczNDc3OTUzNCwicGF0aCI6Ii8xNDgyOTU2MzMvMzA1Njg5NzE0LWJjNjljZjAxLTZjZDEtNDY0OS04ZTQzLTdhMGZkOWZlN2M3ZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIyMVQxMTEyMTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mZGFmYzRjNzlmNTYwZTRjM2Q2ZTg4ZmM4YmY0OWE1ZDUyMmVkNmJmNjc1NTBiODA2ZWQ2NmZlMjdlMDgzN2JiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.WP2_MFSHwW9F4AgQdHVJu_l5Neld1_Z_UybtueZlTjg" width="150" height="150"></td>
     <td><img src="https://private-user-images.githubusercontent.com/148295633/305689727-57f1c575-7ca3-4413-812a-9d0395ac68ce.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQ3ODA3NTYsIm5iZiI6MTczNDc4MDQ1NiwicGF0aCI6Ii8xNDgyOTU2MzMvMzA1Njg5NzI3LTU3ZjFjNTc1LTdjYTMtNDQxMy04MTJhLTlkMDM5NWFjNjhjZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIyMVQxMTI3MzZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05YjAyMjE3NmU3ZTY1OGJjNDdhMjg5OTVhNzhiMDg5YzQ2MDdlOWM2MjZiOTE5OTRhODQ5YTIzNTU5N2I1ZDc2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.rtTIZjgWvOlLOSJIOe5TmxOq4kXswme9aI_7w3QKnrs" width="150" height="150"></td>
   </tr>
-  <tr style="text-align: center;">
+  <tr align="center">
     <td>강다윤</td>
     <td>권민서</td>
     <td>이재현</td>
@@ -47,9 +47,9 @@
   <h3 style="text-align: center">IDE</h3>
   <div style="margin: 0 auto;">
     <div style="display: flex; width: 100%; margin: 0 auto;">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRtQyXi1necbFlJOetK3_3MHaLeHDGZ-C3pw&s" width="100" height="100" style="margin: 0px 15px;">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-3rWIKPntHjAWxdfD_TNkMVjE9PGasQcpbA&s" width="100" height="100" style="margin: 0px 15px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="100" height="100" style="margin: 0px 15px;">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRtQyXi1necbFlJOetK3_3MHaLeHDGZ-C3pw&s" width="100" height="100" style="padding: 0px 15px;">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-3rWIKPntHjAWxdfD_TNkMVjE9PGasQcpbA&s" width="100" height="100" style="padding: 0px 15px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="100" height="100" style="padding: 0px 15px;">
     </div>
   </div>
   

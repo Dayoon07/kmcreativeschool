@@ -10,7 +10,7 @@
 
 ##  팀원 소개
 
-<table>
+<table border="1" style="border-collspace: collspace; margin: 0 auto;">
   <tr>
     <td>기능 개발</td>
     <td>기능 개발</td>
@@ -20,9 +20,9 @@
   </tr>
   <tr>
     <td></td>
+    <td><img src="https://dayoon07.github.io/static-page-test/img/mantoman.png" width="150" height="150"></td>
     <td></td>
-    <td></td>
-    <td><img src="https://private-user-images.githubusercontent.com/148295633/305689714-bc69cf01-6cd1-4649-8e43-7a0fd9fe7c7d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQ3Nzk4MzQsIm5iZiI6MTczNDc3OTUzNCwicGF0aCI6Ii8xNDgyOTU2MzMvMzA1Njg5NzE0LWJjNjljZjAxLTZjZDEtNDY0OS04ZTQzLTdhMGZkOWZlN2M3ZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIyMVQxMTEyMTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mZGFmYzRjNzlmNTYwZTRjM2Q2ZTg4ZmM4YmY0OWE1ZDUyMmVkNmJmNjc1NTBiODA2ZWQ2NmZlMjdlMDgzN2JiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.WP2_MFSHwW9F4AgQdHVJu_l5Neld1_Z_UybtueZlTjg"></td>
+    <td><img src="https://private-user-images.githubusercontent.com/148295633/305689714-bc69cf01-6cd1-4649-8e43-7a0fd9fe7c7d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQ3Nzk4MzQsIm5iZiI6MTczNDc3OTUzNCwicGF0aCI6Ii8xNDgyOTU2MzMvMzA1Njg5NzE0LWJjNjljZjAxLTZjZDEtNDY0OS04ZTQzLTdhMGZkOWZlN2M3ZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIyMVQxMTEyMTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mZGFmYzRjNzlmNTYwZTRjM2Q2ZTg4ZmM4YmY0OWE1ZDUyMmVkNmJmNjc1NTBiODA2ZWQ2NmZlMjdlMDgzN2JiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.WP2_MFSHwW9F4AgQdHVJu_l5Neld1_Z_UybtueZlTjg" width="150" height="150"></td>
     <td></td>
   </tr>
   <tr>

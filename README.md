@@ -43,7 +43,7 @@
 
 ##  기술
 
-<div style="width: 100%; margin: 0 auto;">
+<div align="center">
   <h3 style="text-align: center">IDE</h3>
   <div style="margin: 0 auto;">
     <div style="display: flex; width: 100%; margin: 0 auto;">

@@ -46,8 +46,8 @@
 <div align="center">
 
 <h3 style="text-align: center">IDE</h3>
-<div>
-  <div style="display: flex;">
+<div style="display: block;">
+  <div style="display: flex; width: 100%;">
     <div>
       <h3>Spring Tool Suite</h3>
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRtQyXi1necbFlJOetK3_3MHaLeHDGZ-C3pw&s" width="100" height="100">

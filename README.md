@@ -10,9 +10,30 @@
 
 ##  팀원 소개
 
-|----------기능 개발----------|----------기능 개발----------|----------UI / UX----------|----------화면구현----------|----------기능 개발----------|
-|----------|----------|----------|----------|----------|
-|----------강다윤----------|----------권민서----------|----------이재현----------|----------우예진----------|----------박은서----------|
+<table>
+  <tr>
+    <td>기능 개발</td>
+    <td>기능 개발</td>
+    <td>UI / UX</td>
+    <td>화면구현</td>
+    <td>기능 개발</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="https://private-user-images.githubusercontent.com/148295633/305689714-bc69cf01-6cd1-4649-8e43-7a0fd9fe7c7d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQ3Nzk4MzQsIm5iZiI6MTczNDc3OTUzNCwicGF0aCI6Ii8xNDgyOTU2MzMvMzA1Njg5NzE0LWJjNjljZjAxLTZjZDEtNDY0OS04ZTQzLTdhMGZkOWZlN2M3ZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIyMVQxMTEyMTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mZGFmYzRjNzlmNTYwZTRjM2Q2ZTg4ZmM4YmY0OWE1ZDUyMmVkNmJmNjc1NTBiODA2ZWQ2NmZlMjdlMDgzN2JiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.WP2_MFSHwW9F4AgQdHVJu_l5Neld1_Z_UybtueZlTjg"></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>강다윤</td>
+    <td>권민서</td>
+    <td>이재현</td>
+    <td>우예진</td>
+    <td>박은서</td>
+  </tr>
+</table>
+
 
 ##  프로젝트 일정 <br> 2024년 4월 ~ 2024년 10월
 

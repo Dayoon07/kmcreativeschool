@@ -11,7 +11,7 @@
 ##  팀원 소개
 
 <table border="1" style="border-collspace: collspace; margin: 0 auto;">
-  <tr style="text-align: center;">
+  <tr align="center">
     <td>기능 개발</td>
     <td>기능 개발</td>
     <td>UI / UX</td>

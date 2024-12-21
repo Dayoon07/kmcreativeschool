@@ -47,7 +47,7 @@
   <h3 style="text-align: center">IDE</h3>
   <div style="margin: 0 auto;">
     <div style="display: flex; width: 100%; margin: 0 auto;">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRtQyXi1necbFlJOetK3_3MHaLeHDGZ-C3pw&s" width="100" height="100" style="padding: 0px 15px;">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRtQyXi1necbFlJOetK3_3MHaLeHDGZ-C3pw&s" width="100" height="100" margin-left="20px" margin-right="20px" style="padding: 0px 15px;">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-3rWIKPntHjAWxdfD_TNkMVjE9PGasQcpbA&s" width="100" height="100" style="padding: 0px 15px;">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="100" height="100" style="padding: 0px 15px;">
     </div>

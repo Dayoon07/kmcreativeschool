@@ -12,11 +12,11 @@
 
 <table border="1" style="border-collspace: collspace; margin: 0 auto; text-align: center;">
   <tr>
-    <td>기능 개발</td>
-    <td>기능 개발</td>
-    <td>UI / UX</td>
-    <td>화면구현</td>
-    <td>기능 개발</td>
+    <td><h3 style="text-align: center;">기능 개발</h3></td>
+    <td><h3 style="text-align: center;">기능 개발</h3></td>
+    <td><h3 style="text-align: center;">UI / UX</h3></td>
+    <td><h3 style="text-align: center;">화면구현</h3></td>
+    <td><h3 style="text-align: center;">기능 개발</h3></td>
   </tr>
   <tr>
     <td><img src="https://private-user-images.githubusercontent.com/148295633/305689724-5abe4eed-4059-4785-b9ca-634a615b0c4d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQ3ODA4NjAsIm5iZiI6MTczNDc4MDU2MCwicGF0aCI6Ii8xNDgyOTU2MzMvMzA1Njg5NzI0LTVhYmU0ZWVkLTQwNTktNDc4NS1iOWNhLTYzNGE2MTViMGM0ZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIyMVQxMTI5MjBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iYTJmMDdkNmZjY2M1ZTU1MTIxZDVhOTZjMDFkODllZmJlMzY3NGViN2MxNTA5ZmVmNDVmMDQyOTc2OWQ5YTU2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.lj1uHFRZwcRS8fR1_ZlfzLf4jvSlQge9AadgM15an7I" width="150" height="150"></td>

@@ -95,33 +95,36 @@
 <img src="https://dayoon07.github.io/static-page-test/img/creativeProjectERD.png" width="800" height="700">
 
 ## 프로젝트 기능
-<details open>
-  <summary>로그인</summary>
-  <h2>비밀번호 / 아이디 찾기(SMTP)</h2>
-</details>
-<details open>
-  <summary>경찰등록</summary>
-  <h2>파일 업로드 (프로필사진)</h2>
-  <h2>경찰서 등록 (공공 API)</h2>
-</details>
-<details open>
-  <summary>신고</summary>
-  <h2>게시글 신고 (SMTP로 전송)</h2>
-  <h2>채탕으로 신고 (파일 업로드 처리))</h2>
-  <h2>신고자 등록</h2>
-  <h2>가해자 등록</h2>
-</details>
-<details open>
-  <summary>신고처리</summary>
-  <h2>신고내용 조회</h2>
-  <h2>신고내용 접수, 완료</h2>
-  <h2>SMTP 상황 전송</h2>
-</details>
-<details open>
-  <summary>나의 신고내역</summary>
-  <h2>본인확인</h2>
-  <h2>목록별 내용조회</h2>
-</details>
+
+### 로그인
+- **비밀번호 / 아이디 찾기 (SMTP)**
+
+---
+
+### 경찰등록
+- **파일 업로드 (프로필사진)**
+- **경찰서 등록 (공공 API)**
+
+---
+
+### 신고
+- **게시글 신고 (SMTP로 전송)**
+- **채팅으로 신고 (파일 업로드 처리)**
+- **신고자 등록**
+- **가해자 등록**
+
+---
+
+### 신고처리
+- **신고내용 조회**
+- **신고내용 접수 및 완료**
+- **SMTP 상황 전송**
+
+---
+
+### 나의 신고내역
+- **본인확인**
+- **목록별 내용 조회**
 
 
 

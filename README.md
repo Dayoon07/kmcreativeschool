@@ -10,9 +10,9 @@
 
 ##  팀원 소개
 
-<table border="1" style="border-collspace: collspace; margin: 0 auto; text-align: center;">
+<table border="1" style="border-collspace: collspace; margin: 0 auto;">
   <tr>
-    <td><h3 style="text-align: center;">기능 개발</h3></td>
+    <td>기능 개발</td>
     <td><h3 style="text-align: center;">기능 개발</h3></td>
     <td><h3 style="text-align: center;">UI / UX</h3></td>
     <td><h3 style="text-align: center;">화면구현</h3></td>

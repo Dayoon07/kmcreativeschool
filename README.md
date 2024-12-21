@@ -77,7 +77,7 @@
   <h3 style="text-align: center">빌드도구</h3>
   <div style="margin: 0 auto;">
     <div style="display: flex; width: 100%; margin: 0 auto;">
-      <img src="https://miro.medium.com/v2/resize:fit:1400/0*ExbQKuXTXKh3zHIU.png" width="250" height="100">
+      <img src="https://cdn.creazilla.com/icons/3254075/maven-icon-lg.png" width="250" height="100">
     </div>
   </div>
   

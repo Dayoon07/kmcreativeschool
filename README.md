@@ -4,52 +4,20 @@
 
 ## 프로젝트 소개
 
-학교폭력을 간단하게 신고할 수 있도록 만든 웹 애플리케이션
+학교폭력을 간단하게 신고할 수 있도록 만든 웹 애플리케이션 <br>
 <a href="http://teacherdev09.kro.kr:9999/creativeschool">주소</a>
 
 
-
-
-  
 ##  팀원 소개
 
 |--기능 개발--|--기능 개발--|--UI / UX--|--화면구현--|--기능 개발--|
 |----|----|----|----|----|
 |--강다윤--|--권민서--|--이재현--|--우예진--|--박은서--|
 
-##  프로젝트 일정
+##  프로젝트 일정 <br> 2024년 4월 ~ 2024년 10월
 
-## 2024년 4월 ~ 2024년 10월
-
-<div style="display: flex">
-  <div style="width: 25%; min-height: 150px;">
-    <h3>4월~7월</h3>
-    <h4>16주</h4><br>
-    <p>
-      프로젝트 진행을 위한 기초학습
-    </p>
-  </div>
-  <div style="width: 25%; min-height: 150px;">
-    <h3>7월 중반~8월 초</h3>
-    <h4>3주</h4><br>
-    <p>
-      아이디어 회의 및 기획
-    </p>
-  </div>
-  <div style="width: 25%; min-height: 150px;">
-    <h3>8월 초~9월 중반</h3>
-    <h4>5주</h4><br>
-    <p>
-      개발 진행
-    </p>
-  </div>
-  <div style="width: 25%; min-height: 150px;">
-    <h3>9월 중반~10월 중반</h3>
-    <h4>4주</h4><br>
-    <p>
-      검토 기간
-    </p>
-  </div>
+<div style="width: 100%; margin: 0 auto;">
+  <img src="https://dayoon07.github.io/static-page-test/img/project.png">
 </div>
 
 ##  기술

@@ -46,10 +46,28 @@
 <div align="center">
 
 <h3 style="text-align: center">IDE</h3>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRtQyXi1necbFlJOetK3_3MHaLeHDGZ-C3pw&s" width="100" height="100">
+<div>
+  <div style="display: flex;">
+    <div>
+      <h3>Spring Tool Suite</h3>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRtQyXi1necbFlJOetK3_3MHaLeHDGZ-C3pw&s" width="100" height="100">
+    </div>
+    <div>
+      <h3>DBeaver</h3>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-3rWIKPntHjAWxdfD_TNkMVjE9PGasQcpbA&s" width="100" height="100">
+    </div>
+    <div>
+      <h3>Visual Studio Code</h3>
+      <img src="https://usingu.co.kr/wp-content/uploads/2021/12/thubmnail-icon-vscode.png" width="100" height="100">
+    </div>
+  </div>
+  <div style="display: flex;">
+    
+  </div>
+</div>
 <h3 style="text-align: center">서버</h3>
 <h3 style="text-align: center">사용기술</h3>
-<h3 style="text-align: center">빌드도구E</h3>
+<h3 style="text-align: center">빌드도구</h3>
 <h3 style="text-align: center">설계 및 협업 도구</h3>
 
 </div>

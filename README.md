@@ -1,6 +1,6 @@
 <div align="center">
 <h2>팀명 : 폴리스 다크 아미 </h2>
-</div><br><br><br>
+</div><br>
 
 ## 프로젝트 소개
 

@@ -5,7 +5,6 @@
 ## 프로젝트 소개
 
 학교폭력을 간단하게 신고할 수 있도록 만든 웹 애플리케이션 <br>
-<a href="http://teacherdev09.kro.kr:9999/creativeschool">주소</a>
 
 
 ##  팀원 소개
